@@ -1,4 +1,4 @@
-# generadorRut
+# Generador de Rut
 
 El escript generadorRut.py les permitira generar un archivo con todos los rut Chilenos validos.
 
